@@ -1,5 +1,6 @@
-#'Flashscards' project for hyperskill - jetbrains, completed by Iván Luna
-
+# Flashcards
+# Project Completed By Iván Luna, August 3, 2023
+# For Hyperskill (Jet Brains Academy).
 import random
 import argparse
 from io import StringIO
