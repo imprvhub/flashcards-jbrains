@@ -1,6 +1,8 @@
 # Flashcards
+# https://github.com/imprvhub/flashcards-jbrains
 # Project Completed By Iván Luna, August 3, 2023
-# For Hyperskill (Jet Brains Academy).
+# For Hyperskill (Jet Brains Academy). Course: Introduction To Python
+
 import random
 import argparse
 from io import StringIO
